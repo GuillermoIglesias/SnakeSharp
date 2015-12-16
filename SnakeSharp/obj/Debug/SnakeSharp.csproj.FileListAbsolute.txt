@@ -1,0 +1,9 @@
+C:\Users\Nazorth\VSProjects\SnakeSharp\SnakeSharp\bin\Debug\SnakeSharp.exe.config
+C:\Users\Nazorth\VSProjects\SnakeSharp\SnakeSharp\bin\Debug\SnakeSharp.exe
+C:\Users\Nazorth\VSProjects\SnakeSharp\SnakeSharp\bin\Debug\SnakeSharp.pdb
+C:\Users\Nazorth\VSProjects\SnakeSharp\SnakeSharp\obj\Debug\SnakeSharp.csprojResolveAssemblyReference.cache
+C:\Users\Nazorth\VSProjects\SnakeSharp\SnakeSharp\obj\Debug\SnakeSharp.Form1.resources
+C:\Users\Nazorth\VSProjects\SnakeSharp\SnakeSharp\obj\Debug\SnakeSharp.Properties.Resources.resources
+C:\Users\Nazorth\VSProjects\SnakeSharp\SnakeSharp\obj\Debug\SnakeSharp.csproj.GenerateResource.Cache
+C:\Users\Nazorth\VSProjects\SnakeSharp\SnakeSharp\obj\Debug\SnakeSharp.exe
+C:\Users\Nazorth\VSProjects\SnakeSharp\SnakeSharp\obj\Debug\SnakeSharp.pdb
